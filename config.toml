@@ -1,4 +1,5 @@
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "Useless Machines! (VMMF-2017)"
+baseurl = "http://vanhugo.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
+publishDir = "docs"
