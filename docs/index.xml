@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useless Machines! (VMMF-2017)</title>
-    <link>http://vanhugo.github.io/useless/</link>
+    <link>https://vanhugo.github.io/useless/</link>
     <description>Recent content on Useless Machines! (VMMF-2017)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2017 15:24:36 -0700</lastBuildDate>
     
-	<atom:link href="http://vanhugo.github.io/useless/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanhugo.github.io/useless/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some Title</title>
-      <link>http://vanhugo.github.io/useless/welcome/kit-contents/</link>
+      <link>https://vanhugo.github.io/useless/welcome/kit-contents/</link>
       <pubDate>Mon, 05 Jun 2017 15:24:36 -0700</pubDate>
       
-      <guid>http://vanhugo.github.io/useless/welcome/kit-contents/</guid>
+      <guid>https://vanhugo.github.io/useless/welcome/kit-contents/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
