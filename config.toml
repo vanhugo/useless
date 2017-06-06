@@ -1,5 +1,6 @@
 title = "Useless Machines! (VMMF-2017)"
 baseurl = "https://vanhugo.github.io/useless"
+basepath = "/useless"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
 publishDir = "docs"

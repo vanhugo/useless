@@ -1,14 +1,10 @@
 +++
 date = "2017-06-05T15:21:23-07:00"
 icon = "<b>1. </b>"
-title = "Welcome"
-weight = 0
+title = "Welcome and thank you!"
+weight = 1
 
 +++
-
-### Chapter 1
-
----
 
 If you're reading this, you probably bought a useless machine kit from me at
 VMMF 2017.
