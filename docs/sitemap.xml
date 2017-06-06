@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vanhugo.github.io/useless/welcome/</loc>
+    <lastmod>2017-06-05T15:21:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanhugo.github.io/useless/box-build/</loc>
+    <lastmod>2017-06-05T22:25:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanhugo.github.io/useless/box-build/dry-test/</loc>
+    <lastmod>2017-06-05T22:44:01-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vanhugo.github.io/useless/welcome/kit-contents/</loc>
     <lastmod>2017-06-05T15:24:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vanhugo.github.io/useless/welcome/</loc>
-    <lastmod>2017-06-05T15:21:23-07:00</lastmod>
+    <loc>https://vanhugo.github.io/useless/box-build/glue-wood-parts/</loc>
+    <lastmod>2017-06-05T22:52:35-07:00</lastmod>
   </url>
   
   <url>
@@ -24,7 +39,7 @@
   
   <url>
     <loc>https://vanhugo.github.io/useless/</loc>
-    <lastmod>2017-06-05T15:24:36-07:00</lastmod>
+    <lastmod>2017-06-05T22:44:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   

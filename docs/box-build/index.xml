@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Useless Machines! (VMMF-2017)</title>
-    <link>https://vanhugo.github.io/useless/</link>
-    <description>Recent content on Useless Machines! (VMMF-2017)</description>
+    <title>Box assembly on Useless Machines! (VMMF-2017)</title>
+    <link>https://vanhugo.github.io/useless/box-build/</link>
+    <description>Recent content in Box assembly on Useless Machines! (VMMF-2017)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 22:44:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 22:25:24 -0700</lastBuildDate>
     
-	<atom:link href="https://vanhugo.github.io/useless/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanhugo.github.io/useless/box-build/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://vanhugo.github.io/useless/box-build/dry-test/</guid>
       <description>Put the pieces of the box and lid together without glue so you can understand how the pieces fit.
 If there are any black soot marks you don&amp;rsquo;t like, you can remove them with a clean pencil eraser.    These three &amp;lsquo;motor mount&amp;rsquo; pieces hold the motor, switches and the arm.     The hinge and battery holder holder parts go in later, once the box is glued.</description>
-    </item>
-    
-    <item>
-      <title>Kit Contents</title>
-      <link>https://vanhugo.github.io/useless/welcome/kit-contents/</link>
-      <pubDate>Mon, 05 Jun 2017 15:24:36 -0700</pubDate>
-      
-      <guid>https://vanhugo.github.io/useless/welcome/kit-contents/</guid>
-      <description>The first thing you should do is unpack and organize the bag of wooden parts.    Notice that there is a burned side and a clean side to each part. You can choose what side you want to be the outside of the box.    Now separate your parts into groups:    Box    Lid    Motor mount    Battery holder holder    Hinge     Now it is time to assemble these parts.</description>
     </item>
     
     <item>

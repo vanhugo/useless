@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Useless Machines! (VMMF-2017)</title>
+    <title>Welcome and thank you! on Useless Machines! (VMMF-2017)</title>
     <link>https://vanhugo.github.io/useless/welcome/</link>
-    <description>Recent content in Welcome on Useless Machines! (VMMF-2017)</description>
+    <description>Recent content in Welcome and thank you! on Useless Machines! (VMMF-2017)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2017 15:21:23 -0700</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Some Title</title>
+      <title>Kit Contents</title>
       <link>https://vanhugo.github.io/useless/welcome/kit-contents/</link>
       <pubDate>Mon, 05 Jun 2017 15:24:36 -0700</pubDate>
       
       <guid>https://vanhugo.github.io/useless/welcome/kit-contents/</guid>
-      <description>Lorem Ipsum</description>
+      <description>The first thing you should do is unpack and organize the bag of wooden parts.    Notice that there is a burned side and a clean side to each part. You can choose what side you want to be the outside of the box.    Now separate your parts into groups:    Box    Lid    Motor mount    Battery holder holder    Hinge     Now it is time to assemble these parts.</description>
     </item>
     
   </channel>
