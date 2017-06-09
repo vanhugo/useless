@@ -23,3 +23,4 @@ You should be able to build the kit in about an hour.
 * Wood glue
 * 2 AA batteries
 
+Please start with a look at the [kit contents](./kit-contents/)

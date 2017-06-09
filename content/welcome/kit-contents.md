@@ -15,6 +15,6 @@ weight = 5
 | Lid  | ![Wood lid](../wood-lid.jpg) |
 | Motor mount | ![Wood motor mount](../wood-motor-mount.jpg) |
 | Battery holder holder | ![Wood battery holder](../wood-bhh.jpg) |
-| Hinge | ![Wood hinge](../wood-hinge.jpg) |
+| Hinges | ![Wood hinge](../wood-hinge.jpg) |
 
 Now it is time to [assemble these parts](../../box-build/).
