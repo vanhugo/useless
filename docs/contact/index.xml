@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Useless Machines! (VMMF-2017)</title>
+    <link>https://vanhugo.github.io/useless/contact/</link>
+    <description>Recent content in Contact on Useless Machines! (VMMF-2017)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2017 22:15:26 -0700</lastBuildDate>
+    
+	<atom:link href="https://vanhugo.github.io/useless/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thanks!</title>
+      <link>https://vanhugo.github.io/useless/contact/thanks/</link>
+      <pubDate>Sat, 10 Jun 2017 22:26:16 -0700</pubDate>
+      
+      <guid>https://vanhugo.github.io/useless/contact/thanks/</guid>
+      <description>Thanks! We&amp;rsquo;ll get back to you as soon as we can.
+Home</description>
+    </item>
+    
+  </channel>
+</rss>
