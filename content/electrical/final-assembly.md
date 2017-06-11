@@ -24,3 +24,4 @@ weight = 10
 | Finally, put on the lid. | ![](../lid-1.jpg) |
 | Congratulations! | ![](../done.jpg) |
 
+[Questions?](../../contact/)
