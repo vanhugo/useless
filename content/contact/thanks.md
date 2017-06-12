@@ -6,7 +6,9 @@ weight = 5
 
 +++
 
-Thanks! We'll get back to you as soon as we can.
+Thanks! We'll get back to you as soon as we can - hopefully within a day.
+
+If you don't get a copy of your message within a few minutes, please try again and make sure you've entered your email address very carefully.
 
 [Home](../../welcome)
 
